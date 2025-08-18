@@ -1,6 +1,11 @@
 # Hi there 👋
 #### 🥜 I am working on to build nuts empire across the world, while preparing to land a job at FAANG, to gain experience on working big tech company to apply skills into my own projects in future ! 💻 
 
+2019 - started coding on QBasic (yeah, I know, that was wrong decision)
+2021 - moved to basics of Python
+2023 - started over from scratch (HTML, CSS, JS, Git, and Python)
+2025 - building Nuts store
+
 
 <!--
 **sai-2409/sai-2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
