@@ -1,10 +1,11 @@
 # Hi there 👋
 #### 🥜 I am working on to build nuts empire across the world, while preparing to land a job at FAANG, to gain experience on working big tech company to apply skills into my own projects in future ! 💻 
 
-2019 - started coding on QBasic (yeah, I know, that was wrong decision)
-2021 - moved to basics of Python
-2023 - started over from scratch (HTML, CSS, JS, Git, and Python)
-2025 - building Nuts store
+- 2019 - started coding on QBasic (yeah, I know, that was wrong decision) 📟
+- 2021 - moved to basics of Python 🐍
+- 2023 - moved to US 🌎
+- 2024 - started over from scratch (HTML, CSS, JS, Git, and Python) 🧑🏽‍💻
+- 2025 - building Nuts store 🌰
 
 
 <!--
