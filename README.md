@@ -1,5 +1,5 @@
-### Hi there 👋
-# I am working on to build nuts empire across the world, while preparing to land a job at FAANG, to gain experience on working big tech company to apply skills into my own projects in future ! 
+# Hi there 👋
+#### 🥜 I am working on to build nuts empire across the world, while preparing to land a job at FAANG, to gain experience on working big tech company to apply skills into my own projects in future ! 💻 
 
 
 <!--
