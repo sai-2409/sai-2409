@@ -5,7 +5,7 @@
 - 2021 - moved to basics of Python 🐍
 - 2023 - moved to US 🌎
 - 2024 - started over from scratch (HTML, CSS, JS, Git, and Python) 🧑🏽‍💻
-- 2025 - building Nuts store 🌰
+- 2025 - learning Swift and building Nuts store 🌰
 
 
 <!--
